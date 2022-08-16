@@ -2,7 +2,7 @@
 
 This project a simple example website built with HTML, CSS and almost none JavaScript.
 
-
+<br />
 
 ## Screenshot
 
@@ -10,13 +10,13 @@ This project a simple example website built with HTML, CSS and almost none JavaS
 
 ![](./assets/images/screenshots/ss-2.png)
 
-
+<br />
 
 ## Links
 
 - Live Site URL: [Update Yourself!](https://adrielgamorim.github.io/update/)
 
-
+<br />
 
 ## Author
 
